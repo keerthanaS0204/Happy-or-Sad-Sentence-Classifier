@@ -45,7 +45,7 @@ I used an AI tool: Yes
 
 If yes, what I asked it:
 
-I used AI to understand the Python project instructions, learn how to write the functions, identify suitable clue words, understand the word-scoring method, debug my code and prepare the README documentation.
+I used AI to understand the Python project instructions, learn how to write the functions, identify suitable clue words and understand the word-scoring method.
 
 Reflection
 
